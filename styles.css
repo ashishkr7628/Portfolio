@@ -940,3 +940,18 @@
       line-height: 38px;
     }
   }
+/* making the bg black */
+  body{
+    background-color: #000;
+  }
+/* for making gap between get in touch and message me  */
+.contact-content{
+
+  gap: 4%;
+}
+
+/* this is for making python card aligned with others */
+.serv-content{
+
+  gap: 1%;
+}
